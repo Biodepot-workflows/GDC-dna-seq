@@ -17,9 +17,6 @@ GDC DNA-Seq analysis workflow, as seen in Figure 4.
 A demonstration video for this workflow is seen here:
 [https://youtu.be/M7MCI83Q7_A](https://youtu.be/M7MCI83Q7_A)
 
-A demonstration video for this workflow is seen here:
-[https://youtu.be/XRdhJRvVecM](https://youtu.be/XRdhJRvVecM)
-
 ## Biodepot-workflow-builder (Bwb)
 
 All graphical workflows are implemented in the Bwb platform. To learn more about the Bwb platform, please refer to https://github.com/BioDepot/BioDepot-workflow-builder
