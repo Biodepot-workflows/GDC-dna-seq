@@ -14,6 +14,8 @@ Accessible, interactive and cloud-enabled genomic workflows integrated with the 
 
 GDC DNA-Seq analysis workflow, as seen in Figure 4.
 
+The Gen3 download widget requires controlled access data from dbGap.  Permission must be applied for to gain access to the specified data.
+
 A demonstration video for this workflow is seen here:
 [https://youtu.be/M7MCI83Q7_A](https://youtu.be/M7MCI83Q7_A)
 
