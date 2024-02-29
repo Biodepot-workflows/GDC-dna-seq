@@ -37,7 +37,8 @@ GEN3 credentials can be downloaded from [https://gen3.datacommons.io](https://ge
 1. Login to the data commons portal.
 2. Click on the profile button at the top navigation bar.
 3. Click the “Create API key” button, and download the JSON token.
-4. Copy the JSON credentials file to the directory mapped to the /data directory in Bwb.
+4. Add a folder called "gdc" to the directory mapped to the /data directory in Bwb.
+5. Copy the JSON credentials file to the "gdc" directory.
 
 ## Downloading a GDC token file
 
@@ -46,7 +47,9 @@ GDC token can be downloaded from [https://portal.gdc.cancer.gov/](https://portal
 1. Login to the web portal using the “Login” button.
 2. Click on the profile button at the top navigation bar.
 3. Click on the “Download Token” link.
-4. Copy the token file to the directory mapped to the /data directory in Bwb.
+4. Add a folder called "gdc" to the directory mapped to the /data directory in Bwb.
+5. Rename the token file to "gdc-user-token.txt".
+6. Copy the token file to the "gdc" directory.
 
 Note that PIs need to apply for access to controlled data prior to downloading GDC tokens. Please refer to [https://gdc.cancer.gov/access-data/obtaining-access-controlled-data](https://gdc.cancer.gov/access-data/obtaining-access-controlled-data) for detailed instructions.
 
